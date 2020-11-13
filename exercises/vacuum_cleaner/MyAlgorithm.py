@@ -10,6 +10,7 @@ import math
 import cv2
 from math import pi as pi
 import random
+from jderobotTypes import CMDVel
 
 time_cycle = 80
 
